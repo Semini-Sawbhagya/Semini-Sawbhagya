@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there I'm Semini Sawbhagya Harinakshi👋
+I'm currently studing in the Department of Computer Science and Engineering University Of Moratuwa.
 
 <!--
 **Semini-Sawbhagya/Semini-Sawbhagya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
