@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Semini-Sawbhagya&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Semini-Sawbhagya&layout=compact&theme=tokyonight)
+![Visitor Badge](https://komarev.com/ghpvc/?username=Semini-Sawbhagya&color=blue&style=flat-square)
